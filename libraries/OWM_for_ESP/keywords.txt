@@ -1,0 +1,34 @@
+# Syntax coloring map
+
+# Datatypes (KEYWORD1)
+OWM_for_ESP	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+getWeather	KEYWORD2
+getCurrentWeather	KEYWORD2
+getFullWeather	KEYWORD2
+
+getIconCode	KEYWORD2
+
+getShortStatus	KEYWORD2
+getStatus	KEYWORD2
+getStatus16	KEYWORD2
+
+setApiKey	KEYWORD2
+setUnits	KEYWORD2
+
+# Structures (KEYWORD3)
+OWM_current	KEYWORD3
+OWM_hourly	KEYWORD3
+OWM_daily	KEYWORD3
+
+# Constants (LITERAL1)
+MAX_HOURS	LITERAL1
+MAX_DAYS	LITERAL1
+
+FULL	LITERAL1
+CURRENT	LITERAL1
+
+STANDART	LITERAL1
+METRIC	LITERAL1
+IMPERIAL	LITERAL1
